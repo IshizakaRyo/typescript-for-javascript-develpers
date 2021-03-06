@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/IshizakaRyo/typescript-for-javascript-develpers/issues"
   },
-  "homepage": "https://github.com/IshizakaRyo/typescript-for-javascript-develpers#readme"
+  "homepage": "https://github.com/IshizakaRyo/typescript-for-javascript-develpers#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
